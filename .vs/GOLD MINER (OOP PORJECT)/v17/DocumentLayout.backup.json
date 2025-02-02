@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|c:\\users\\hp\\onedrive\\desktop\\gold miner (oop porject)\\assets\\scripts\\helper scripts\\tagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\helper scripts\\tagmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|c:\\users\\hp\\onedrive\\desktop\\gold miner (oop porject)\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\assets\\scripts\\ui\\uimenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|c:\\users\\hp\\onedrive\\desktop\\gold miner (oop porject)\\assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|c:\\users\\hp\\onedrive\\desktop\\gold miner (oop porject)\\assets\\scripts\\ui\\itemcatchui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\itemcatchui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|c:\\users\\hp\\onedrive\\desktop\\gold miner (oop porject)\\assets\\scripts\\hook scripts\\roperenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hook scripts\\roperenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|c:\\users\\hp\\onedrive\\desktop\\gold miner (oop porject)\\assets\\scripts\\hook scripts\\hookmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hook scripts\\hookmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|c:\\users\\hp\\onedrive\\desktop\\gold miner (oop porject)\\assets\\scripts\\hook scripts\\claws.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21EFC8AD-9F39-BED3-D091-4687E144CDE0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hook scripts\\claws.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\exit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAIwMIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:41:00.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:28:13.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemCatchUI.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\UI\\ItemCatchUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ItemCatchUI.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\UI\\ItemCatchUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ItemCatchUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T09:25:34.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RopeRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\Hook Scripts\\RopeRenderer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hook Scripts\\RopeRenderer.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\Hook Scripts\\RopeRenderer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hook Scripts\\RopeRenderer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:21:31.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HookMovement.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\Hook Scripts\\HookMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hook Scripts\\HookMovement.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\Hook Scripts\\HookMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hook Scripts\\HookMovement.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAQwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:52:17.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Claws.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\Hook Scripts\\Claws.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hook Scripts\\Claws.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\Hook Scripts\\Claws.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hook Scripts\\Claws.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:19:16.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TagManager.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\Helper Scripts\\TagManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Helper Scripts\\TagManager.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\Helper Scripts\\TagManager.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\Helper Scripts\\TagManager.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:46:56.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIMenu.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\UI\\UIMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIMenu.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\Scripts\\UI\\UIMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UIMenu.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:46:35.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "exit.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\exit.cs",
+              "RelativeDocumentMoniker": "Assets\\exit.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\GOLD MINER (OOP PORJECT)\\Assets\\exit.cs",
+              "RelativeToolTip": "Assets\\exit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:40:52.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
